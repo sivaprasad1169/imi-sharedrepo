@@ -1,0 +1,4 @@
+export const PRIVILEGE_CONSTANTS = {
+  LOOKUP_PAGE: 1,
+  DETAILS_PAGE: 2
+};
